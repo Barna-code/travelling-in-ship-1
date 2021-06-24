@@ -31,7 +31,7 @@ if(sea.x<0){
 
  fill("white")
  textSize(30);
- text("SHUBHAM",230,365);
+ text("SHUBHAM SM",200,365);
 
 drawSprites();
 }
