@@ -29,9 +29,10 @@ if(sea.x<0){
   sea.x=sea.width/8
  }
 
- fill("white")
- textSize(30);
- text("SHUBHAM SM",200,365);
 
 drawSprites();
+  
+ fill("white")
+ textSize(30);
+ text("SHUBHAM SM",150,365);
 }
